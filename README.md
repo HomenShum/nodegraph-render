@@ -1,3 +1,9 @@
+> **MOVED — this repo is archived.** The renderer now lives inside
+> [**NodeGraph**](https://github.com/HomenShum/NodeGraph) at
+> [`render/`](https://github.com/HomenShum/NodeGraph/tree/main/render),
+> beside the semantic model layer. Full history came along. Quickstart:
+> `git clone https://github.com/HomenShum/NodeGraph && cd NodeGraph/render && npm install && npm run demo`
+
 # NodeGraph Live
 
 A typed-edge live graph for agent sessions: Sigma.js + Graphology, React.
